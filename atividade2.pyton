@@ -1,0 +1,7 @@
+a = input("indira um numero")
+b = input("insira o segundo numero")
+print(a+B)
+
+a = float(input("insira um numero"))
+b = float(input("insira o segundo numero))
+print(a+b)
